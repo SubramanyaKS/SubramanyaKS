@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.E. in Information Science and Engineering.
 - 💞️ I’m looking to collaborate on Machine learning and java
 - 📫 How to reach me **subramanyaks2205@gmail.com**
--   My personal website https://subramanyaks.github.io
+-   My personal website **https://subramanyaks.github.io**
 
 <h3 align="left">connect with me:</h3>
 <p align= "left">
