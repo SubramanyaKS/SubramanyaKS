@@ -5,6 +5,8 @@
 - 📫 How to reach me **subramanyaks2205@gmail.com**
 -   My personal website **https://subramanyaks.github.io**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubramanyaKS&label=Profile%20views&color=129e00&style=plastic" alt="SubramanyaKS" /> </p>
+
 <h3 align="left">connect with me:</h3>
 <p align= "left">
   <a href ="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SubramanyaKS" height ="30" width="40"/></a>
