@@ -11,7 +11,7 @@
 <p align= "left">
   <a href ="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SubramanyaKS" height ="30" width="40"/></a>
   
-  <a href ="https://twitter.com/Subbukshebbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SubramanyaKS" height ="30" width="40"/></a>
+  <a href ="https://twitter.com/Subbukshebbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SubramanyaKS" height ="30" width="40" color="blue"/></a>
  </p>
  
  
