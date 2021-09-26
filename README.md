@@ -10,8 +10,10 @@
 <h3 align="left">connect with me:</h3>
 <p align= "left">
   <a href ="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SubramanyaKS" height ="30" width="40"/></a>
+  
+  <a href ="https://twitter.com/Subbukshebbar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SubramanyaKS" height ="30" width="40"/></a>
  </p>
- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/subbukshebbar)
+ 
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubramanyaKS&show_icons=true&locale=en&layout=compact" alt="SubramanyaKS" /></p>
 
