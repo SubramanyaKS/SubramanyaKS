@@ -1,8 +1,3 @@
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubramanyaKS&label=Profile%20views&color=129e00&style=plastic" alt="SubramanyaKS" /> </p>
-
-
 <!---
 SubramanyaKS/SubramanyaKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
