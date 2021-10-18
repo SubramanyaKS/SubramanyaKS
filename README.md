@@ -39,5 +39,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)
 
-<div class="github-card" data-github="SubramanyaKS" data-width="400" data-height="" data-theme="default"></div>
-<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+
