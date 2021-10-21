@@ -77,6 +77,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)
 
 #### Links:
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)] (https://subramanyaks.github.io/SubramanyaKS-Resume.pdf?)
+
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://subramanyaks.github.io/SubramanyaKS-Resume.pdf)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://subramanyaks.github.io/)
 
