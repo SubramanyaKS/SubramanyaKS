@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/subbukshebbar" target="blank"><img src="https://img.shields.io/twitter/follow/subbukshebbar?logo=twitter&style=for-the-badge" alt="subbukshebbar" /></a> </p>
 <p><img src="https://img.shields.io/github/watchers/SubramanyaKS/SubramanyaKS.svg" /></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 - 🔭 I’m currently working on [Django based REST API Development for Ayucare Management.](https://github.com/SubramanyaKS/AyuCareManagement)
 
