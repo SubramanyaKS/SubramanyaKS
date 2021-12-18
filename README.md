@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
 - 🇮🇳 I'm from India.
+- U+E0069 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
