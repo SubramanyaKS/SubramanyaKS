@@ -64,17 +64,21 @@ You can click the Preview link to take a look at your changes.
   
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 ---
- ### Statistics:
+  
+  
+ <h3> Statistics:</h3>
   
 #### Most Used Language
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br>
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p>
 
+---
 
 #### Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p>
+
+
 ---
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)
 ---
