@@ -64,7 +64,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.microsoft.com/" target="_blank">![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
   
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
----
+
+  
+ ---
   
   
  <h3> Statistics:</h3>
@@ -91,6 +93,14 @@ You can click the Preview link to take a look at your changes.
  
  ---
  
+ <!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/SubramanyaKS/count.svg?align=center)
+
+
+---
+
+
 <!-- 
 #### Most Used Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br><br>
