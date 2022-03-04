@@ -85,6 +85,12 @@ You can click the Preview link to take a look at your changes.
  
  ---
 
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ ---
+ 
 <!-- 
 #### Most Used Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br><br>
