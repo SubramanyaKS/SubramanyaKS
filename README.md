@@ -68,7 +68,24 @@ You can click the Preview link to take a look at your changes.
   
   
  <h3> Statistics:</h3>
- <!-- 
+ 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS)](https://git.io/streak-stats)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
+<!-- GITHUB STATISTICS -->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS) 
+ 
+ 
+ ---
+
+<!-- 
 #### Most Used Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br><br>
 
@@ -91,11 +108,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
-
 ---
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
