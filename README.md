@@ -45,9 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://github.com/SubramanyaKS">
-
----
 
 
 <h3 align="left">Languages and Tools:</h3>
