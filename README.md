@@ -93,9 +93,9 @@ You can click the Preview link to take a look at your changes.
  
  ---
  
- <!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/SubramanyaKS/count.svg?align=center)
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+
 
 
 ---
