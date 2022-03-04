@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 <!--
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="subramanya-k-s-b74a92204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subramanya-k-s-b74a92204?trk=profile-badge">SUBRAMANYA K S</a></div>-->
               
+---
+
 #### About Myself:
 
 - ✔️ I'm currently studing B.E. Information Science and Engineering from JNNCE, Shivamogga.
@@ -93,13 +95,15 @@ You can click the Preview link to take a look at your changes.
  
  ---
  
+ 
  <!-- ACTIVITY GRAPH TRACKER -->
+ <!--
 [![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
 
 
 
 ---
-
+-->
 
 <!-- 
 #### Most Used Language
