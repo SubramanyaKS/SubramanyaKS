@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <br><br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
+[](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
