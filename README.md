@@ -68,23 +68,34 @@ You can click the Preview link to take a look at your changes.
   
   
  <h3> Statistics:</h3>
-  
+ <!-- 
 #### Most Used Language
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br><br>
+
+
 
 ---
+
 
 #### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p><br><br>
 
 
 ---
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br><br>
+
 
 ---
 
-<br><br>
-[](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
 
 ---
+-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
