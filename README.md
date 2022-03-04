@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
               
 #### About Myself:
 
--  
+- ✔️ I'm currently studing B.E. Information Science and Engineering from JNNCE, Shivamogga.
+
 - 🔭 I’m currently working on [Django based REST API Development for Ayucare Management.](https://github.com/SubramanyaKS/AyuCareManagement)
 
 - 🌱 I’m currently learning **Django, Machine learning.**
@@ -79,8 +80,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
----
 
+---
 
 <br><br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
