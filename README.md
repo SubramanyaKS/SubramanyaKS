@@ -63,13 +63,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.microsoft.com/" target="_blank">![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
   
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+---
+ ### Statistics:
   
-
+#### Most Used Language
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br>
-
+---
+#### Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p><br>
-
+---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
-
+---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)
+---
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
