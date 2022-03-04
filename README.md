@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="subramanya-k-s-b74a92204" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/subramanya-k-s-b74a92204?trk=profile-badge">SUBRAMANYA K S</a></div>-->
               
+#### About Myself:
 
 - 🔭 I’m currently working on [Django based REST API Development for Ayucare Management.](https://github.com/SubramanyaKS/AyuCareManagement)
 
@@ -36,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://subramanyaks.github.io/SubramanyaKS-Resume.pdf)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://subramanyaks.github.io/)
 
+
+---
 <h3 align="left">Languages and Tools:</h3>
 
 
