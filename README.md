@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
               
 #### About Myself:
 
+-  
 - 🔭 I’m currently working on [Django based REST API Development for Ayucare Management.](https://github.com/SubramanyaKS/AyuCareManagement)
 
 - 🌱 I’m currently learning **Django, Machine learning.**
@@ -26,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 - 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
 - 🇮🇳 I'm from India.
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/subbukshebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
@@ -70,4 +72,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
