@@ -98,6 +98,10 @@ You can click the Preview link to take a look at your changes.
  
  ---
  
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
+
+
+---
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -116,37 +120,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
  
- <!-- ACTIVITY GRAPH TRACKER -->
- <!--
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
-
-
-
----
--->
-
-<!-- 
-#### Most Used Language
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subramanyaks&show_icons=true&locale=en&layout=compact" alt="subramanyaks" /></p><br><br>
-
-
-
----
-
-
-#### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subramanyaks&show_icons=true&locale=en" alt="subramanyaks" /></p><br><br>
-
-
----
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=subramanyaks&" alt="subramanyaks" /></p><br><br>
-
-
----
-
--->
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
----
 
