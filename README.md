@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <center>**If you like my profile and other repository ⭐ the repository and fork it if you want.** </center>
-<center> **Thank you for visiting my Profile ** </center>
+<center> **Thank you for visiting my Profile** </center>
 
  
 
