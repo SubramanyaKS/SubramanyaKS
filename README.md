@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
----
+--- 
 
 <!-- GITHUB STATISTICS -->
 ### My Github Stats.
@@ -119,6 +119,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/channel/UCg28-MrcK-8CCFos7FWp0Dg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subramanya43" height="30" width="40" /></a>
 </p>
 
----
+
+<center>** If you like my profile and other repository ⭐ the repository and fork it if you want.** </center>
+<center> ** Thank you for visiting my Profile ** </center>
+
  
 
