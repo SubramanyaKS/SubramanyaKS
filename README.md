@@ -95,6 +95,9 @@ You can click the Preview link to take a look at your changes.
  ---
 
 <!--  TOP LANGUAGES STATISTICS -->
+### Most used Language
+**Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  
