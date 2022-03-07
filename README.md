@@ -120,10 +120,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-**If you like my profile and other repository ⭐ the repository and fork it if you want.**
+**If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
 
-**Thank you for visiting my Profile**
+**Thank you for visiting my github profile**
 
  
 
