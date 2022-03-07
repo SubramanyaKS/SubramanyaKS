@@ -83,7 +83,7 @@ You can click the Preview link to take a look at your changes.
 --- 
 
 <!-- GITHUB STATISTICS -->
-### My Github Stats.
+### My Github Statistics:
  ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS) 
  
  
@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
  
  
  ---
- 
+ ### Commits per day:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
 
 
