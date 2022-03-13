@@ -84,7 +84,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GITHUB STATISTICS -->
 ### My Github Statistics:
- ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS) 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS&theme=dark) 
  
  
  ---
