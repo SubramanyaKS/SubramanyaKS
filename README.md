@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
  <h3> Statistics:</h3>
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS&theme=dark)](https://git.io/streak-stats)
 
 ---
 
