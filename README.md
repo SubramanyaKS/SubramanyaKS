@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=SubramanyaKS&color=dc143c)
 
+![Visitor Count](https://profile-counter.glitch.me/{SubramanyaKS}/count.svg)
+
 <!--<p align="left"> <a href="https://twitter.com/subbukshebbar" target="blank"><img src="https://img.shields.io/twitter/follow/subbukshebbar?logo=twitter&style=for-the-badge" alt="subbukshebbar" /></a> </p>
 <p><img src="https://img.shields.io/github/watchers/SubramanyaKS/SubramanyaKS.svg" /></p>-->
 <!--
