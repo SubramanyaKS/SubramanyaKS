@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A simple frontend developer from Karnataka,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
+
 ![](https://komarev.com/ghpvc/?username=SubramanyaKS&color=dc143c)
 
 <!--<p align="left"> <a href="https://twitter.com/subbukshebbar" target="blank"><img src="https://img.shields.io/twitter/follow/subbukshebbar?logo=twitter&style=for-the-badge" alt="subbukshebbar" /></a> </p>
