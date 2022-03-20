@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
 - 🇮🇳 I'm from India.
+- ⚡ FunFact: I waste most of my time using laptop and listening music. 😆.
 
 ---
 ### Resume and Portofolio
