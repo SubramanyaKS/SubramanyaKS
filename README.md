@@ -2,7 +2,7 @@
 SubramanyaKS/SubramanyaKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://github.com/SubramanyaKS/SubramanyaKS/blob/main/Subramanya_KS.gif" alt="Coder GIF" width="420" height="330">
+<img  src="https://github.com/SubramanyaKS/SubramanyaKS/blob/main/Subramanya_KS.gif" alt="Coder GIF" width="420" height="330">
 
 <h1 align="center">Hi 👋, I'm Subramanya K S</h1>
 <h3 align="center">A simple frontend developer from Karnataka,India</h3>
