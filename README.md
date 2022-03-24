@@ -112,7 +112,7 @@ Note :These are tools and Technology i used for my projects.
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=github)
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
  
  
  ---
