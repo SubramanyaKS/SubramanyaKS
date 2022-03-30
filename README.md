@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
 -->
 
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/SubramanyaKS/SubramanyaKS">
-
 ----
 ![Visitor Count](https://profile-counter.glitch.me/{SubramanyaKS}/count.svg)
 
