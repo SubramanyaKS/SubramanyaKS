@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍🎓 I'm currently studing B.E. Information Science and Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
-- 🔭 I’m currently working on [Django based REST API Development for Ayucare Management.](https://github.com/SubramanyaKS/AyuCareManagement)
+- 🔭 I’m currently working on [My React Portfolio.](https://github.com/SubramanyaKS/MYReactApp)
 
 - 🌱 I’m currently learning **Django,React JS, Machine learning.**
 
