@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **connectwithsubbu@gmail.com**
 
 - 😄 Pronouns: He/Him
+- 👀 I love exploring new technologies
 
 - 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
 - 🇮🇳 I'm from India.
