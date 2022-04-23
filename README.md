@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://github.com/SubramanyaKS/SubramanyaKS/blob/main/Subramanya_KS.gif" alt="Coder GIF" width="100%" height="230">
 
 <h1 align="center">Hi 👋, I'm Subramanya K S</h1>
-<h3 align="center">A simple frontend developer and learner from Karnataka,India</h3>
+<h3 align="center">A simple frontend developer and learner from Karnataka,India <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Programmer.gif" width=20 height=20></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanyaks&label=Profile%20views&color=0e75b6&style=flat" alt="subramanyaks"/> </p>
 -->
