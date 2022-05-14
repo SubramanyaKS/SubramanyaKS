@@ -92,6 +92,8 @@ Note :These are tools and Technology i used for my projects.
 
 ---
 
+### 🏆 Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SubramanyaKS&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
