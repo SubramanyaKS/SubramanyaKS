@@ -130,7 +130,7 @@ Note :These are tools and Technology i used for my projects.
  
  ---
  
- <h3 align="center">Connect 🔗 or follow me:</h3>
+ <h3 align="center">🌐 Connect 🔗 or follow me:</h3>
 <p align="center">
 <a href="https://twitter.com/subbukshebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanya-k-s-b74a92204/" height="30" width="40" /></a>
