@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [My React Portfolio.](https://github.com/SubramanyaKS/MYReactApp)
 
-- 🌱 I’m currently learning **Django,React JS, Machine learning.**
+- 🌱 I’m currently learning **Flask,React JS, Machine learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubramanyaKS](https://github.com/SubramanyaKS)
 
