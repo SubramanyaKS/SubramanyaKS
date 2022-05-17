@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [My React Portfolio.](https://github.com/SubramanyaKS/MYReactApp)
 
-- 🌱 I’m currently learning **Flask,React JS, Machine learning.**
+- 🧠 I’m currently learning **Full stack development [MERN].**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SubramanyaKS](https://github.com/SubramanyaKS)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/SubramanyaKS)
 
 - 📫 How to reach me **subramanyaks22@gmail.com**
 
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I love exploring new technologies
 
-- ⚡ I am pasionate about Web Technology.
+- 🌱 I am pasionate about Web Technology.
 
 - 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
 
