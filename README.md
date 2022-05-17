@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubramanyaKS](https://github.com/SubramanyaKS)
 
-- 📫 How to reach me **connectwithsubbu@gmail.com**
+- 📫 How to reach me **subramanyaks22@gmail.com**
 
 - 😄 Pronouns: He/Him
 
