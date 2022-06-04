@@ -131,6 +131,14 @@ Note :These are tools and Technology i used for my projects.
  
  ---
  
+ <div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
+</br>
+ 
+ ---
+ 
  <h3 align="center">🌐 Connect 🔗 or follow me:</h3>
 <p align="center">
 <a href="https://twitter.com/subbukshebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subbukshebbar" height="30" width="40" /></a>
