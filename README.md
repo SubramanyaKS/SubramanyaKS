@@ -151,10 +151,8 @@ Note :These are tools and Technology i used for my projects.
 </p>
 
 ---
+
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
 
 **Thank you for visiting my github profile have a nice day.**
-
- 
-
