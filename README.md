@@ -147,6 +147,7 @@ Note :These are tools and Technology i used for my projects.
 <a href="https://www.hackerearth.com/@subramanya43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@subramanya43" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCg28-MrcK-8CCFos7FWp0Dg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@subramanya43" height="30" width="40" /></a>
 <a href="https://m.facebook.com/100070944345090/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Subramanyaks" height="30" width="40" /></a>
+<a href="https://leetcode.com/Subramanya_KS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekygoyal_03" height="30" width="40" /></a>
 <a href="https://leetcode.com/Subramanya_KS/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geekygoyal_03" height="30" width="40" /></a>
 </p>
 
