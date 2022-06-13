@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 
-- 👀 I love exploring new technologies
+- 👀 I love to explore new technologies
 
 - 🌱 I am pasionate about Web Technology.
 
