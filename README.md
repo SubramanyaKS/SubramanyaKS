@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I am pasionate about Web Technology.
 
-- 📄 Know about my experiences [https://subramanyaks.github.io](https://subramanyaks.github.io)
+- 📄 Know more about me [https://subramanyaks.github.io](https://subramanyaks.github.io)
 
 - 🇮🇳 I'm from India.
 
