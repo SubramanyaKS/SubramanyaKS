@@ -103,7 +103,7 @@ Note :These are tools and Technology i used for my projects.
 <!-- GITHUB STATISTICS -->
 ### My Github Statistics:
   
- ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS&theme=dark) 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS&theme=chartreuse-dark) 
  
  
  
