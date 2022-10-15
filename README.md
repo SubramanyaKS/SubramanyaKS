@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/SubramanyaKS)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/SubramanyaKS?tab=repositories)
 
 - 📫 How to reach me **subramanyaks22@gmail.com**
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I am pasionate about Web Technology.
 
-- 📄 Know more about me [https://subramanyaks.github.io](https://subramanyaks.github.io)
+- 📄 Know more about me [Portfolio](https://subramanyaks.github.io)
 
 - 🇮🇳 I'm from India.
 
