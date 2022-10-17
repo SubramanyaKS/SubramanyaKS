@@ -41,6 +41,8 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I am pasionate about Web Technology.
 
+- 👨‍💻 Life Hack: Learn new tech and share what you have learned.
+
 - 📄 Know more about me [Portfolio](https://subramanyaks.netlify.app)
 
 - 🇮🇳 I'm from India.
