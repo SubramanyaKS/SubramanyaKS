@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Myself:
 
-- 👨‍🎓 I'm studied B.E. Information Science and Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
+- 👨‍🎓 I studied B.E. Information Science and Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga.
 
 - 🔭 I’m currently working on [My React Portfolio.](https://github.com/SubramanyaKS/MYReactApp)
 
