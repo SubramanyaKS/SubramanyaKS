@@ -65,8 +65,8 @@ Note :These are tools and Technology I used for my projects.
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>](https://www.java.com) |[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)  |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>](https://developer.android.com) |
 | --- | --- | --- | --- |
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css) |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="django" width="40" height="40"/>](https://reactjs.org/) |
-| --- | --- | --- | --- |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css) |  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=nodejs" alt="node" width="40" height="40" />](https://nodejs.org/en/) |
+| --- | --- | --- | --- | --- |
 
 
 
@@ -116,17 +116,12 @@ Note :These are tools and Technology I used for my projects.
  ---
 
 <!--  TOP LANGUAGES STATISTICS -->
-
-### Most used Language
+ ### TOP LANGUAGES STATISTICS
 **Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
- ---
- ### Commits per day:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark)<br><br>
-
+| Most used Language    | Commits per day |
+| ---      | ---       |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark) |
 
 ---
  
