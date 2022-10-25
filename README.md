@@ -73,9 +73,9 @@ Note :These are tools and Technology I used for my projects.
 <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   
-  <a href="https://www.microsoft.com/" target="_blank">![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
-  -->
+  <a href="https://www.microsoft.com/" target="_blank">![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>-->
 
+  <!---->
   
  ---
   
@@ -84,6 +84,7 @@ Note :These are tools and Technology I used for my projects.
  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 
 ---
 
