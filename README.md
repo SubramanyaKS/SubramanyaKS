@@ -126,7 +126,6 @@ Note :These are tools and Technology I used for my projects.
 <b> ✍️  Random dev joke for you!</b></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
-</br>
  
  ---
  
