@@ -55,7 +55,6 @@ You can click the Preview link to take a look at your changes.
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://subramanyaks.github.io/SubramanyaKS-Resume.pdf)
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://subramanyaks.github.io/)
 
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
