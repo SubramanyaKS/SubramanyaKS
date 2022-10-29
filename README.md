@@ -124,12 +124,12 @@ Note :These are tools and Technology I used for my projects.
  
  
  
- ---
+ <!------->
  
- <div align="center"> 
+ <!--<div align="center"> 
 <b> ✍️  Random dev joke for you!</b></br></br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</div>
+</div>-->
  
  ---
  
@@ -151,6 +151,8 @@ Note :These are tools and Technology I used for my projects.
 [![@subramanya's Holopin board](https://holopin.me/subramanya)](https://holopin.io/@subramanya)
 
 ---
+
+![Hi](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=MyReactApp&theme=highcontrast)
 
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
