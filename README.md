@@ -152,7 +152,8 @@ Note :These are tools and Technology I used for my projects.
 
 ---
 
-![Hi](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=MyReactApp&theme=highcontrast)
+![MYReactApp](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=MyReactApp&theme=highcontrast)
+![AyuCareManagement](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=AyuCareManagement&theme=highcontrast)
 
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
