@@ -150,10 +150,14 @@ Note :These are tools and Technology I used for my projects.
 
 [![@subramanya's Holopin board](https://holopin.me/subramanya)](https://holopin.io/@subramanya)
 
----
+<!-----
 
 ![MYReactApp](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=MyReactApp&theme=highcontrast)
 ![AyuCareManagement](https://github-readme-stats.vercel.app/api/pin/?username=SubramanyaKS&repo=AyuCareManagement&theme=highcontrast)
+-->
+### Feedback
+
+if you want to give feedback mail me [mail](mailto:subramanyak2205@gmail.com)
 
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
