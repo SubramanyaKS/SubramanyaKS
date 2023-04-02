@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  ![GitHub followers](https://img.shields.io/github/followers/SubramanyaKS?color=white&logo=Github&style=for-the-badge)
  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCg28-MrcK-8CCFos7FWp0Dg?logo=Youtube&style=for-the-badge)
  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCg28-MrcK-8CCFos7FWp0Dg?logo=youtube&style=for-the-badge)
- ![Twitter Follow](https://img.shields.io/twitter/follow/Subbukshebbar?color=blue&logo=twitter&style=for-the-badge)
+<!--  ![Twitter Follow](https://img.shields.io/twitter/follow/Subbukshebbar?color=blue&logo=twitter&style=for-the-badge) -->
  
 ---
 
