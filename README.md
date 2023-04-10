@@ -122,7 +122,7 @@ Note :These are tools and Technology I used for my projects.
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubramanyaKS&theme=github)
+ ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubramanyaKS&theme=radical&hide_border=true)
  
  
  
