@@ -103,28 +103,38 @@ Note :These are tools and Technology I used for my projects.
 
 <!-- GITHUB STATISTICS -->
 ### My Github Statistics:
-  
+
+<details>
+ 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=SubramanyaKS&theme=chartreuse-dark) 
  
- 
- 
+ </details>
+     
  ---
 
 <!--  TOP LANGUAGES STATISTICS -->
  ### TOP LANGUAGES STATISTICS
 **Note** This statistics gives the most used language in my project/repo not my programming language skill percentage.
 
+<details>
+
 | Most used Language    | Commits per day |
 | ---      | ---       |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubramanyaKS&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubramanyaKS&theme=solarized_dark) |
 
+    
+   </details>
+   
 ---
  
  <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
+
+<details>
+
  ![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SubramanyaKS&theme=radical&hide_border=true)
  
- 
+ </details>
  
  <!------->
  
@@ -149,8 +159,11 @@ Note :These are tools and Technology I used for my projects.
 
 ---
 ### Holopin Board
-
+<details>
+    
 [![@subramanya's Holopin board](https://holopin.me/subramanya)](https://holopin.io/@subramanya)
+    
+</details>
 
 <!-----
 
