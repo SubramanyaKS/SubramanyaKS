@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍🎓 I studied B.E. in Information Science and Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga , Karnataka, India.
 
-- 🔭 I’m currently working on [My React Portfolio.](https://github.com/SubramanyaKS/MYReactApp)
+- 🔭 I’m currently working in [Infosys](https://www.infosys.com/)
 
 - 🧠 I’m currently learning **Full stack development [MERN].**
 
