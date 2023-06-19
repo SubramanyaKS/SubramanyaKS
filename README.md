@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 
-- 👀 I love to explore new technologies
+- 👀 I'm always eager to learn new things and tackle interesting challenges.
 
 - 🌱 I am pasionate about Web Technology.
 
@@ -176,9 +176,13 @@ Note :These are tools and Technology I used for my projects.
 -->
 ### Feedback
 
+Feel free to explore my repositories, projects, and contributions. Don't hesitate to reach out if you have any questions or if there's any way I can assist you.
+
 if you want to give feedback mail me [here](mailto:subramanyak22@gmail.com)
 
 **If you like my profile and other repositories ⭐ the repository and fork it if you want.**
 
 
 **Thank you for visiting my github profile have a nice day.**
+
+Happy coding! 🚀
