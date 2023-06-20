@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I'm always eager to learn new things and tackle interesting challenges.
 
-- 🌱 I am pasionate about Web Technology.
+<!--- 🌱 I am pasionate about Web Technology.-->
 
 - 👨‍💻 Life Hack: Learn new tech and share what you have learned.
 
