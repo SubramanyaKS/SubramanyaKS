@@ -89,7 +89,9 @@ Note :These are tools and Technology I used for my projects.
  <h3> Statistics:</h3>
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubramanyaKS&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=subramanyaKS&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ---
