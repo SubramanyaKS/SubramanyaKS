@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 - 😄 Pronouns: He/Him
 
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects and learn new technologies.
 
 - 👀 I'm always eager to learn new things and tackle interesting challenges.
 
