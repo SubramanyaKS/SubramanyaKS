@@ -39,8 +39,6 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me <a href="mailto:subramanyaks22@gmail.com">[email](subramanyaks22@gmail.com)</a>
 
-- 😄 Pronouns: He/Him
-
 - 🥅 2024 Goals: Contribute more to Open Source projects and learn new technologies.
 
 - 👀 I'm always eager to learn new things and tackle interesting challenges.
