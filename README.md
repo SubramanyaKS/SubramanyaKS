@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working in [Infosys](https://www.infosys.com/)
 
-- 🧠 I’m currently learning **Angular,Flutter.**
+- 🧠 I’m currently learning **Angular,Flutter and React Native**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/SubramanyaKS?tab=repositories)
 
