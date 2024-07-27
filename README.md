@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🇮🇳 I'm from India.
 
-- ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening  music 🎶 😆.
+<!--- ⚡ FunFact: I love to spend most of my time using my laptop (hobby projects and others) and listening  music 🎶 😆.-->
 
 ---
 ### Resume and Portofolio
