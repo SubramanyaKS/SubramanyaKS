@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### About Myself:
 
-- 👨‍🎓 I studied B.E. in Information Science and Engineering from <a href="http://jnnce.ac.in/jnndemo/">JNNCE</a>, Shivamogga , Karnataka, India.
+- 👨‍🎓 I studied B.E. in Information Science and Engineering from <a href="https://vtu.ac.in/">Visvesvaraya Technological University</a>, Karnataka, India.
 
 - 🔭 I’m currently working in [Infosys](https://www.infosys.com/)
 
